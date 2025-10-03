@@ -1,1 +1,8 @@
-
+{
+  "companyName": "MANTENIMIENTO INDUSTRIAL",
+  "companyDesc": "Gestión centralizada de recursos y equipos.",
+  "companyLogo": null,
+  "personalData": [],
+  "areasData": [],
+  "equiposData": []
+}
