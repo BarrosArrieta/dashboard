@@ -17,9 +17,9 @@
   ],
   "equiposData": [
     {
-      "estado": "Fuera de servicio",
+      "estado": "Operativo",
       "frecuencia": "none",
-      "actividades": "",
+      "actividades": "Revicion tecno\n",
       "id": 1759524411772,
       "area": "Toyota",
       "codigo": "5454564",
