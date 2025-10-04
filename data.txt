@@ -1,17 +1,8 @@
 {
-  "companyName": "Alan Barros",
-  "companyDesc": "Diseñador grafico",
+  "companyName": "MANTENIMIENTO INDUSTRIAL",
+  "companyDesc": "Gestión centralizada de recursos y equipos.",
   "companyLogo": null,
-  "personalData": [
-    {
-      "id": 1759609609228,
-      "nombre": "Alan",
-      "cedula": "106651321",
-      "telefono": "383212",
-      "cargo": "Diseñador",
-      "foto": null
-    }
-  ],
+  "personalData": [],
   "areasData": [],
   "equiposData": []
 }
