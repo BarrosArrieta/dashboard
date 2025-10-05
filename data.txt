@@ -20,7 +20,7 @@
       "estado": "Operativo",
       "frecuencia": "30",
       "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACIÓN\nINSPECCIÓN VISUAL ",
-      "insumos": "",
+      "insumos": "FILTROS \nACEITES \nLLAVES EXPANSIVAS ",
       "id": 1759674507806,
       "area": "EQUIPOS DE SOPORTES",
       "codigo": "UMB01",
