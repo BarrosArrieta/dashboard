@@ -57,9 +57,58 @@
       "tipoMantenimiento": "Preventivo",
       "estado": "Pendiente",
       "fechaCreacion": "2025-10-05T20:30:43.380Z"
+    },
+    {
+      "id": 1759696979806,
+      "numeroOrden": "003",
+      "fechaOrden": "2025-10-05",
+      "equipoArea": "EQUIPOS DE PERFORACIÓN",
+      "equipoCodigo": "TL001",
+      "equipoNombre": "TALADRO PERFORADOR 01",
+      "descripcionActividad": "INSPECCION \nLUBRICACION \nAJUSTES \nLIMPIEZA",
+      "herramientas": "ACEITE 15W50\nWHIPALL\nFILTROS",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 54000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T20:42:59.806Z"
     }
   ],
-  "ordenesTrabajoData": [],
+  "ordenesTrabajoData": [
+    {
+      "id": 1759696712870,
+      "numeroOrden": "001",
+      "fechaOrden": "2025-10-05",
+      "equipoArea": "EQUIPOS DE PERFORACIÓN",
+      "equipoCodigo": "TL001",
+      "equipoNombre": "TALADRO PERFORADOR 01",
+      "descripcionActividad": "CAMBIO DE FILTRO \nCAMBIO DE CORRES \n",
+      "repuestosHerramientas": "FILTROS \nCORREAS",
+      "fechaCierre": "2025-10-05",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 200000,
+      "tipoMantenimiento": "Correctivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T20:38:32.870Z"
+    },
+    {
+      "id": 1759696828193,
+      "numeroOrden": "002",
+      "fechaOrden": "2025-10-05",
+      "equipoArea": "EQUIPOS DE SOPORTES",
+      "equipoCodigo": "UMB01",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "descripcionActividad": "CAMBIO DE LLANTAS \n",
+      "repuestosHerramientas": "LLANTAS",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 2000000,
+      "tipoMantenimiento": "Correctivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T20:40:28.193Z"
+    }
+  ],
   "reporteDiarioData": [],
   "calendarData": []
 }
