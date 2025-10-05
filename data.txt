@@ -19,6 +19,7 @@
       "estado": "Operativo",
       "frecuencia": "30",
       "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACIÓN\nINSPECCIÓN VISUAL ",
+      "insumos": "",
       "id": 1759674507806,
       "area": "EQUIPOS DE SOPORTES",
       "codigo": "UMB01",
@@ -27,14 +28,15 @@
       "foto": null
     },
     {
+      "estado": "Operativo",
+      "frecuencia": "30",
+      "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACIÓN \nINSPECCIÓN VISUAL",
+      "insumos": "FILTRO DE ACEITE \nACEITE ISO 68\nACEITE 15W 50\n",
       "id": 1759677351784,
       "area": "EQUIPOS DE SOPORTES",
       "codigo": "UMB02",
       "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO 02",
       "descripcion": "EQUIPO PARA LA FABRICACION DE AGENTE DE VOLADURA",
-      "frecuencia": "none",
-      "actividades": "",
-      "estado": "Operativo",
       "foto": null
     }
   ],
