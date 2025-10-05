@@ -9,14 +9,6 @@
       "telefono": "3185201696",
       "cargo": "SUPERVISOR",
       "foto": null
-    },
-    {
-      "id": 1759703756941,
-      "nombre": "ALAN BARROS",
-      "cedula": "1065652225",
-      "telefono": "3005825666",
-      "cargo": "DISEÑADOR",
-      "foto": null
     }
   ],
   "areasData": [
@@ -29,7 +21,6 @@
       "frecuencia": "30",
       "actividades": "LIMPIEZA\nAJUSTE \nLUBRICACION",
       "insumos": "ACEITE ISO 68\nACEITE 15W40\n",
-      "costoPreventivo": 100000,
       "id": 1759683860931,
       "area": "EQUIPOS DE SOPORTES",
       "codigo": "UMB01",
@@ -42,7 +33,6 @@
       "frecuencia": "20",
       "actividades": "INSPECCION \nLUBRICACION \nAJUSTES \nLIMPIEZA ",
       "insumos": "ACEITE 15W50\nWHIPALL\nFILTROS \n",
-      "costoPreventivo": 200000,
       "id": 1759696061326,
       "area": "EQUIPOS DE PERFORACIÓN",
       "codigo": "TL001",
@@ -51,7 +41,40 @@
       "foto": null
     }
   ],
-  "ordenesPMData": [],
+  "ordenesPMData": [
+    {
+      "id": 1759696979806,
+      "numeroOrden": "003",
+      "fechaOrden": "2025-10-05",
+      "equipoArea": "EQUIPOS DE PERFORACIÓN",
+      "equipoCodigo": "TL001",
+      "equipoNombre": "TALADRO PERFORADOR 01",
+      "descripcionActividad": "INSPECCION \nLUBRICACION \nAJUSTES \nLIMPIEZA",
+      "herramientas": "ACEITE 15W50\nWHIPALL\nFILTROS",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 54000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T20:42:59.806Z"
+    },
+    {
+      "id": 1759699172601,
+      "numeroOrden": "004",
+      "fechaOrden": "2025-10-04",
+      "equipoArea": "EQUIPOS DE SOPORTES",
+      "equipoCodigo": "UMB01",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "descripcionActividad": "LIMPIEZA\nAJUSTE \nLUBRICACION",
+      "herramientas": "ACEITE ISO 68\nACEITE 15W40",
+      "fechaCierre": "2025-10-04",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 12000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T21:19:32.602Z"
+    }
+  ],
   "ordenesTrabajoData": [
     {
       "id": 1759696712870,
