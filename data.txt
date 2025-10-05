@@ -57,6 +57,22 @@
       "tipoMantenimiento": "Correctivo",
       "estado": "Pendiente",
       "fechaCreacion": "2025-10-05T15:39:32.492Z"
+    },
+    {
+      "id": 1759679402379,
+      "numeroOrden": "PM25509370",
+      "fechaOrden": "2025-10-05",
+      "equipoArea": "EQUIPOS DE SOPORTES",
+      "equipoCodigo": "UMB01",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "descripcionActividad": "LIMPIEZA \nAJUSTE \nLUBRICACIÓN\nINSPECCIÓN VISUAL",
+      "herramientas": "FILTROS \nACEITES \nLLAVES EXPANSIVAS",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 25000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T15:50:02.379Z"
     }
   ],
   "ordenesTrabajoData": [],
