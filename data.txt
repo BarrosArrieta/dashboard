@@ -17,18 +17,36 @@
   ],
   "equiposData": [
     {
+      "estado": "Operativo",
+      "frecuencia": "30",
+      "actividades": "LIMPIEZA\nAJUSTE \nLUBRICACION",
+      "insumos": "ACEITE ISO 68\nACEITE 15W40\n",
       "id": 1759683860931,
       "area": "EQUIPOS DE SOPORTES",
       "codigo": "UMB01",
       "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
       "descripcion": "EQUIPOS PARA LA FABRICACIÓN DE AGENTE DE VOLADURA",
-      "frecuencia": "none",
-      "actividades": "",
-      "estado": "Operativo",
       "foto": null
     }
   ],
-  "ordenesPMData": [],
+  "ordenesPMData": [
+    {
+      "id": 1759684265415,
+      "numeroOrden": "000",
+      "fechaOrden": "2025-10-05",
+      "equipoArea": "EQUIPOS DE SOPORTES",
+      "equipoCodigo": "UMB01",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "descripcionActividad": "LIMPIEZA\nAJUSTE \nLUBRICACION",
+      "herramientas": "ACEITE ISO 68\nACEITE 15W40",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 12000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T17:11:05.415Z"
+    }
+  ],
   "ordenesTrabajoData": [],
   "reporteDiarioData": [],
   "calendarData": []
