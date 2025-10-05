@@ -29,20 +29,21 @@
       "foto": null
     },
     {
-      "id": 1759684384740,
+      "estado": "Operativo",
+      "frecuencia": "20",
+      "actividades": "INSPECCION \nLUBRICACION \nAJUSTES \nLIMPIEZA ",
+      "insumos": "ACEITE 15W50\nWHIPALL\nFILTROS \n",
+      "id": 1759696061326,
       "area": "EQUIPOS DE PERFORACIÓN",
       "codigo": "TL001",
-      "equipo": "TALADRO PERFORADOR ",
+      "equipo": "TALADRO PERFORADOR 01",
       "descripcion": "TALADRO PARA LA PERFORACIÓN DE ROCA",
-      "frecuencia": "none",
-      "actividades": "",
-      "estado": "Operativo",
       "foto": null
     }
   ],
   "ordenesPMData": [
     {
-      "id": 1759684265415,
+      "id": 1759696243380,
       "numeroOrden": "000",
       "fechaOrden": "2025-10-05",
       "equipoArea": "EQUIPOS DE SOPORTES",
@@ -50,12 +51,12 @@
       "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
       "descripcionActividad": "LIMPIEZA\nAJUSTE \nLUBRICACION",
       "herramientas": "ACEITE ISO 68\nACEITE 15W40",
-      "fechaCierre": "",
+      "fechaCierre": "2025-10-06",
       "tecnico": "JESUS ANDRES ARIAS CHOLES ",
       "costo": 12000,
       "tipoMantenimiento": "Preventivo",
       "estado": "Pendiente",
-      "fechaCreacion": "2025-10-05T17:11:05.415Z"
+      "fechaCreacion": "2025-10-05T20:30:43.380Z"
     }
   ],
   "ordenesTrabajoData": [],
