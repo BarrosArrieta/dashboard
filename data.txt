@@ -41,7 +41,24 @@
       "foto": null
     }
   ],
-  "ordenesPMData": [],
+  "ordenesPMData": [
+    {
+      "id": 1759678734867,
+      "numeroOrden": "PM25893380",
+      "fechaOrden": "2025-10-05",
+      "equipoArea": "EQUIPOS DE SOPORTES",
+      "equipoCodigo": "UMB02",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 02",
+      "descripcionActividad": "LIMPIEZA \nAJUSTE \nLUBRICACIÓN \nINSPECCIÓN VISUAL",
+      "herramientas": "FILTRO DE ACEITE \nACEITE ISO 68\nACEITE 15W 50",
+      "fechaCierre": "2025-10-06",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 12000000,
+      "tipoMantenimiento": "Correctivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T15:38:54.867Z"
+    }
+  ],
   "ordenesTrabajoData": [],
   "reporteDiarioData": [],
   "calendarData": []
