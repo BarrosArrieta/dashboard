@@ -1,8 +1,20 @@
 {
   "companyName": "MANTENIMIENTO INDUSTRIAL",
   "companyLogo": null,
-  "personalData": [],
-  "areasData": [],
+  "personalData": [
+    {
+      "id": 1759683661680,
+      "nombre": "JESUS ANDRES ARIAS CHOLES ",
+      "cedula": "1065654527",
+      "telefono": "3185201696",
+      "cargo": "SUPERVISOR",
+      "foto": null
+    }
+  ],
+  "areasData": [
+    "EQUIPOS DE SOPORTES",
+    "EQUIPOS DE PERFORACIÓN"
+  ],
   "equiposData": [],
   "ordenesPMData": [],
   "ordenesTrabajoData": [],
