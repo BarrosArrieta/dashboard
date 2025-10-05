@@ -27,6 +27,17 @@
       "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
       "descripcion": "EQUIPOS PARA LA FABRICACIÓN DE AGENTE DE VOLADURA",
       "foto": null
+    },
+    {
+      "id": 1759684384740,
+      "area": "EQUIPOS DE PERFORACIÓN",
+      "codigo": "TL001",
+      "equipo": "TALADRO PERFORADOR ",
+      "descripcion": "TALADRO PARA LA PERFORACIÓN DE ROCA",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
     }
   ],
   "ordenesPMData": [
