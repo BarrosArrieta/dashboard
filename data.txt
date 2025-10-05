@@ -14,7 +14,19 @@
   "areasData": [
     "EQUIPOS DE SOPORTES"
   ],
-  "equiposData": [],
+  "equiposData": [
+    {
+      "id": 1759674507806,
+      "area": "EQUIPOS DE SOPORTES",
+      "codigo": "UMB01",
+      "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "descripcion": "EQUIPOS PARA LA PREPARACIÓN DE AGENTE DE VOLADURA",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    }
+  ],
   "ordenesPMData": [],
   "ordenesTrabajoData": [],
   "reporteDiarioData": [],
