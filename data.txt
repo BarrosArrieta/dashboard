@@ -43,22 +43,6 @@
   ],
   "ordenesPMData": [
     {
-      "id": 1759696243380,
-      "numeroOrden": "000",
-      "fechaOrden": "2025-10-05",
-      "equipoArea": "EQUIPOS DE SOPORTES",
-      "equipoCodigo": "UMB01",
-      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
-      "descripcionActividad": "LIMPIEZA\nAJUSTE \nLUBRICACION",
-      "herramientas": "ACEITE ISO 68\nACEITE 15W40",
-      "fechaCierre": "2025-10-06",
-      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
-      "costo": 12000,
-      "tipoMantenimiento": "Preventivo",
-      "estado": "Pendiente",
-      "fechaCreacion": "2025-10-05T20:30:43.380Z"
-    },
-    {
       "id": 1759696979806,
       "numeroOrden": "003",
       "fechaOrden": "2025-10-05",
@@ -73,6 +57,22 @@
       "tipoMantenimiento": "Preventivo",
       "estado": "Pendiente",
       "fechaCreacion": "2025-10-05T20:42:59.806Z"
+    },
+    {
+      "id": 1759699172601,
+      "numeroOrden": "004",
+      "fechaOrden": "2025-10-04",
+      "equipoArea": "EQUIPOS DE SOPORTES",
+      "equipoCodigo": "UMB01",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "descripcionActividad": "LIMPIEZA\nAJUSTE \nLUBRICACION",
+      "herramientas": "ACEITE ISO 68\nACEITE 15W40",
+      "fechaCierre": "2025-10-04",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES ",
+      "costo": 12000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-05T21:19:32.602Z"
     }
   ],
   "ordenesTrabajoData": [
@@ -110,5 +110,42 @@
     }
   ],
   "reporteDiarioData": [],
-  "calendarData": []
+  "calendarData": [
+    {
+      "id": 1759697750837,
+      "date": "2025-10-05",
+      "equipmentId": 1759683860931,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-05T20:55:50.009Z"
+    },
+    {
+      "id": 1759697750347,
+      "date": "2025-12-04",
+      "equipmentId": 1759683860931,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-05T20:55:50.010Z"
+    },
+    {
+      "id": 1759697861048,
+      "date": "2025-11-04",
+      "equipmentId": 1759683860931,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "status": "executing",
+      "order": "",
+      "createdAt": "2025-10-05T20:57:41.048Z"
+    },
+    {
+      "id": 1759698045971,
+      "date": "2025-11-06",
+      "equipmentId": 1759683860931,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
+      "status": "executing",
+      "order": "001",
+      "createdAt": "2025-10-05T21:00:45.971Z"
+    }
+  ]
 }
