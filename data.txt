@@ -1,1 +1,11 @@
-
+{
+  "companyName": "MANTENIMIENTO INDUSTRIAL",
+  "companyLogo": null,
+  "personalData": [],
+  "areasData": [],
+  "equiposData": [],
+  "ordenesPMData": [],
+  "ordenesTrabajoData": [],
+  "reporteDiarioData": [],
+  "calendarData": []
+}
