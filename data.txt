@@ -87,6 +87,20 @@
       "fechaCreacion": "2025-10-06T22:27:24.530Z"
     }
   ],
-  "reporteDiarioData": [],
+  "reporteDiarioData": [
+    {
+      "id": 1759790742355,
+      "dia": "2025-10-06",
+      "codigo": "UMB 01",
+      "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "numeroOS": "001",
+      "area": "EQUIPOS DE SOPORTE",
+      "actividad": "ORDEN DE SERVICIO 001",
+      "causaFalla": "N/A",
+      "horasEjecucion": 2.5,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-06T22:45:42.355Z"
+    }
+  ],
   "calendarData": []
 }
