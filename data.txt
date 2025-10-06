@@ -19,8 +19,34 @@
       "foto": null
     }
   ],
-  "areasData": [],
-  "equiposData": [],
+  "areasData": [
+    "EQUIPOS DE SOPORTE",
+    "EQUIPOS DE PERFORACION"
+  ],
+  "equiposData": [
+    {
+      "id": 1759786615065,
+      "area": "EQUIPOS DE SOPORTE",
+      "codigo": "UMB 01",
+      "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "descripcion": "EQUIPO PARA LA FABRICACION DE AGENTE DE VOLADURA",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    },
+    {
+      "id": 1759786660689,
+      "area": "EQUIPOS DE PERFORACION",
+      "codigo": "TL001",
+      "equipo": "TALADRO PERFORADOR 001",
+      "descripcion": "EQUIPOS PARA LA PERFORACION DE LA ROCA ",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    }
+  ],
   "ordenesPMData": [],
   "ordenesTrabajoData": [],
   "reporteDiarioData": [],
