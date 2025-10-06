@@ -112,40 +112,31 @@
   "reporteDiarioData": [],
   "calendarData": [
     {
-      "id": 1759697750837,
-      "date": "2025-10-05",
+      "id": 1759778868826,
+      "date": "2025-11-05",
       "equipmentId": 1759683860931,
       "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
       "status": "pending",
       "order": "",
-      "createdAt": "2025-10-05T20:55:50.009Z"
+      "createdAt": "2025-10-06T19:27:47.998Z"
     },
     {
-      "id": 1759697750347,
-      "date": "2025-12-04",
+      "id": 1759778977008,
+      "date": "2025-10-06",
       "equipmentId": 1759683860931,
       "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
       "status": "pending",
       "order": "",
-      "createdAt": "2025-10-05T20:55:50.010Z"
+      "createdAt": "2025-10-06T19:29:36.429Z"
     },
     {
-      "id": 1759697861048,
-      "date": "2025-11-04",
+      "id": 1759778993062,
+      "date": "2025-12-05",
       "equipmentId": 1759683860931,
       "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
-      "status": "executing",
+      "status": "pending",
       "order": "",
-      "createdAt": "2025-10-05T20:57:41.048Z"
-    },
-    {
-      "id": 1759698045971,
-      "date": "2025-11-06",
-      "equipmentId": 1759683860931,
-      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
-      "status": "executing",
-      "order": "001",
-      "createdAt": "2025-10-05T21:00:45.971Z"
+      "createdAt": "2025-10-06T19:29:52.078Z"
     }
   ]
 }
