@@ -9,6 +9,14 @@
       "telefono": "3185201696",
       "cargo": "SUPERVISOR",
       "foto": null
+    },
+    {
+      "id": 1759785998944,
+      "nombre": "ALAN BARROS",
+      "cedula": "1065843394",
+      "telefono": "3219716889",
+      "cargo": "DISEÑADOR",
+      "foto": null
     }
   ],
   "areasData": [
@@ -51,7 +59,7 @@
       "equipoNombre": "TALADRO PERFORADOR 01",
       "descripcionActividad": "INSPECCION \nLUBRICACION \nAJUSTES \nLIMPIEZA",
       "herramientas": "ACEITE 15W50\nWHIPALL\nFILTROS",
-      "fechaCierre": "",
+      "fechaCierre": "2025-10-06",
       "tecnico": "JESUS ANDRES ARIAS CHOLES ",
       "costo": 54000,
       "tipoMantenimiento": "Preventivo",
@@ -101,7 +109,7 @@
       "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO 01",
       "descripcionActividad": "CAMBIO DE LLANTAS \n",
       "repuestosHerramientas": "LLANTAS",
-      "fechaCierre": "",
+      "fechaCierre": "2025-10-07",
       "tecnico": "JESUS ANDRES ARIAS CHOLES ",
       "costo": 2000000,
       "tipoMantenimiento": "Correctivo",
@@ -137,6 +145,51 @@
       "status": "pending",
       "order": "",
       "createdAt": "2025-10-06T19:29:52.078Z"
+    },
+    {
+      "id": 1759779014572,
+      "date": "2025-10-06",
+      "equipmentId": 1759696061326,
+      "equipmentName": "TALADRO PERFORADOR 01",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-06T19:30:14.270Z"
+    },
+    {
+      "id": 1759779014974,
+      "date": "2025-10-26",
+      "equipmentId": 1759696061326,
+      "equipmentName": "TALADRO PERFORADOR 01",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-06T19:30:14.270Z"
+    },
+    {
+      "id": 1759779014725,
+      "date": "2025-11-15",
+      "equipmentId": 1759696061326,
+      "equipmentName": "TALADRO PERFORADOR 01",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-06T19:30:14.270Z"
+    },
+    {
+      "id": 1759779014510,
+      "date": "2025-12-05",
+      "equipmentId": 1759696061326,
+      "equipmentName": "TALADRO PERFORADOR 01",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-06T19:30:14.270Z"
+    },
+    {
+      "id": 1759779014663,
+      "date": "2025-12-25",
+      "equipmentId": 1759696061326,
+      "equipmentName": "TALADRO PERFORADOR 01",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-06T19:30:14.270Z"
     }
   ]
 }
