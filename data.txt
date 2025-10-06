@@ -1,7 +1,24 @@
 {
   "companyName": "MANTENIMIENTO INDUSTRIAL",
   "companyLogo": null,
-  "personalData": [],
+  "personalData": [
+    {
+      "id": 1759786271459,
+      "nombre": "JESUS ANDRES ARIAS CHOLES",
+      "cedula": "1065654527",
+      "telefono": "3185201696",
+      "cargo": "SUPERVISOR",
+      "foto": null
+    },
+    {
+      "id": 1759786313809,
+      "nombre": "ALAN JOSE BARROS ARRIETA",
+      "cedula": "1065843394",
+      "telefono": "3219716889",
+      "cargo": "DISEÑADOR",
+      "foto": null
+    }
+  ],
   "areasData": [],
   "equiposData": [],
   "ordenesPMData": [],
