@@ -51,7 +51,24 @@
       "foto": null
     }
   ],
-  "ordenesPMData": [],
+  "ordenesPMData": [
+    {
+      "id": 1759788519338,
+      "numeroOrden": "000",
+      "fechaOrden": "2025-10-06",
+      "equipoArea": "EQUIPOS DE SOPORTE",
+      "equipoCodigo": "UMB 01",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "descripcionActividad": "LIMPIEZA \nAJUSTE \nLUBRICACION",
+      "herramientas": "WHIPALL\nACEITES",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES, ALAN JOSE BARROS ARRIETA",
+      "costo": 15000000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-06T22:08:39.338Z"
+    }
+  ],
   "ordenesTrabajoData": [],
   "reporteDiarioData": [],
   "calendarData": []
