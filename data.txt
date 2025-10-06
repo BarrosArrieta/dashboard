@@ -25,25 +25,29 @@
   ],
   "equiposData": [
     {
+      "estado": "Operativo",
+      "frecuencia": "10",
+      "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACION ",
+      "insumos": "WHIPALL\nACEITES \n",
+      "costoPreventivo": 15000000,
       "id": 1759786615065,
       "area": "EQUIPOS DE SOPORTE",
       "codigo": "UMB 01",
       "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
       "descripcion": "EQUIPO PARA LA FABRICACION DE AGENTE DE VOLADURA",
-      "frecuencia": "none",
-      "actividades": "",
-      "estado": "Operativo",
       "foto": null
     },
     {
+      "estado": "Operativo",
+      "frecuencia": "20",
+      "actividades": "AJUSTE \nLIMPIEZA\nLUBRICACION ",
+      "insumos": "ISO 68\nGRASAS",
+      "costoPreventivo": 20000000,
       "id": 1759786660689,
       "area": "EQUIPOS DE PERFORACION",
       "codigo": "TL001",
       "equipo": "TALADRO PERFORADOR 001",
       "descripcion": "EQUIPOS PARA LA PERFORACION DE LA ROCA ",
-      "frecuencia": "none",
-      "actividades": "",
-      "estado": "Operativo",
       "foto": null
     }
   ],
