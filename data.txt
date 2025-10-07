@@ -1,106 +1,11 @@
 {
   "companyName": "MANTENIMIENTO INDUSTRIAL",
   "companyLogo": null,
-  "personalData": [
-    {
-      "id": 1759786271459,
-      "nombre": "JESUS ANDRES ARIAS CHOLES",
-      "cedula": "1065654527",
-      "telefono": "3185201696",
-      "cargo": "SUPERVISOR",
-      "foto": null
-    },
-    {
-      "id": 1759786313809,
-      "nombre": "ALAN JOSE BARROS ARRIETA",
-      "cedula": "1065843394",
-      "telefono": "3219716889",
-      "cargo": "DISEÑADOR",
-      "foto": null
-    }
-  ],
-  "areasData": [
-    "EQUIPOS DE SOPORTE",
-    "EQUIPOS DE PERFORACION"
-  ],
-  "equiposData": [
-    {
-      "estado": "Operativo",
-      "frecuencia": "10",
-      "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACION ",
-      "insumos": "WHIPALL\nACEITES \n",
-      "costoPreventivo": 15000000,
-      "id": 1759786615065,
-      "area": "EQUIPOS DE SOPORTE",
-      "codigo": "UMB 01",
-      "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
-      "descripcion": "EQUIPO PARA LA FABRICACION DE AGENTE DE VOLADURA",
-      "foto": null
-    },
-    {
-      "estado": "Operativo",
-      "frecuencia": "20",
-      "actividades": "AJUSTE \nLIMPIEZA\nLUBRICACION ",
-      "insumos": "ISO 68\nGRASAS",
-      "costoPreventivo": 20000000,
-      "id": 1759786660689,
-      "area": "EQUIPOS DE PERFORACION",
-      "codigo": "TL001",
-      "equipo": "TALADRO PERFORADOR 001",
-      "descripcion": "EQUIPOS PARA LA PERFORACION DE LA ROCA ",
-      "foto": null
-    }
-  ],
-  "ordenesPMData": [
-    {
-      "id": 1759788519338,
-      "numeroOrden": "000",
-      "fechaOrden": "2025-10-06",
-      "equipoArea": "EQUIPOS DE SOPORTE",
-      "equipoCodigo": "UMB 01",
-      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO",
-      "descripcionActividad": "LIMPIEZA \nAJUSTE \nLUBRICACION",
-      "herramientas": "WHIPALL\nACEITES",
-      "fechaCierre": "2025-10-15",
-      "tecnico": "JESUS ANDRES ARIAS CHOLES, ALAN JOSE BARROS ARRIETA",
-      "costo": 15000000,
-      "tipoMantenimiento": "Preventivo",
-      "estado": "Pendiente",
-      "fechaCreacion": "2025-10-06T22:08:39.338Z"
-    }
-  ],
-  "ordenesTrabajoData": [
-    {
-      "id": 1759789644530,
-      "numeroOrden": "001",
-      "fechaOrden": "2025-10-06",
-      "equipoArea": "EQUIPOS DE PERFORACION",
-      "equipoCodigo": "TL001",
-      "equipoNombre": "TALADRO PERFORADOR 001",
-      "descripcionActividad": "CAMBIO DE BROCAS DE PERFORACION",
-      "repuestosHerramientas": "CROCA HEXAGONOGAL DE 2\"",
-      "fechaCierre": "2025-10-10",
-      "tecnico": "ALAN JOSE BARROS ARRIETA",
-      "costo": 2500000,
-      "tipoMantenimiento": "Correctivo",
-      "estado": "Pendiente",
-      "fechaCreacion": "2025-10-06T22:27:24.530Z"
-    }
-  ],
-  "reporteDiarioData": [
-    {
-      "id": 1759790742355,
-      "dia": "2025-10-06",
-      "codigo": "UMB 01",
-      "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
-      "numeroOS": "001",
-      "area": "EQUIPOS DE SOPORTE",
-      "actividad": "ORDEN DE SERVICIO 001",
-      "causaFalla": "N/A",
-      "horasEjecucion": 2.5,
-      "tipoMantenimiento": "Preventivo",
-      "fechaCreacion": "2025-10-06T22:45:42.355Z"
-    }
-  ],
+  "personalData": [],
+  "areasData": [],
+  "equiposData": [],
+  "ordenesPMData": [],
+  "ordenesTrabajoData": [],
+  "reporteDiarioData": [],
   "calendarData": []
 }
