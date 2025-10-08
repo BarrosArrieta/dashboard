@@ -51,8 +51,42 @@
       "foto": null
     }
   ],
-  "ordenesPMData": [],
-  "ordenesTrabajoData": [],
+  "ordenesPMData": [
+    {
+      "id": 1759965952990,
+      "numeroOrden": "000",
+      "fechaOrden": "2025-10-08",
+      "equipoArea": "EQUIPOS DE SOPORTE",
+      "equipoCodigo": "UMB 01",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "descripcionActividad": "LIMPIEZA \nAJUSTE \nLUBRICACION",
+      "herramientas": "ACEITE",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES",
+      "costo": 150000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-08T23:25:52.991Z"
+    }
+  ],
+  "ordenesTrabajoData": [
+    {
+      "id": 1759966005679,
+      "numeroOrden": "001",
+      "fechaOrden": "2025-10-08",
+      "equipoArea": "EQUIPOS DE SOPORTE",
+      "equipoCodigo": "UMB 01",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "descripcionActividad": "DFGSDFG",
+      "repuestosHerramientas": "SDFGDFSG",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES",
+      "costo": 0,
+      "tipoMantenimiento": "Correctivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-08T23:26:45.679Z"
+    }
+  ],
   "reporteDiarioData": [
     {
       "id": 1759849191690,
