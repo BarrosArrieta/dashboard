@@ -748,6 +748,71 @@
       "horasEjecucion": 2.5,
       "tipoMantenimiento": "Preventivo",
       "fechaCreacion": "2025-10-07T14:59:51.690Z"
+    },
+    {
+      "id": 1760032015651,
+      "dia": "2025-10-09",
+      "codigo": "345GFD",
+      "equipo": "DFSGSDFG",
+      "numeroOS": "G",
+      "area": "EQUIPOS DE PERFORACION",
+      "actividad": "Mantenimiento de DFSGSDFG - SDFHSFGJGFHKHJK",
+      "causaFalla": "EFDASF",
+      "horasEjecucion": 75,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-09T17:46:55.651Z"
+    },
+    {
+      "id": 1760032047522,
+      "dia": "2025-10-09",
+      "codigo": "SDFDS",
+      "equipo": "SDFASDF",
+      "numeroOS": "G",
+      "area": "EQUIPOS DE SOPORTE",
+      "actividad": "Mantenimiento de SDFASDF - ASDFSDAF",
+      "causaFalla": "DFGDFG",
+      "horasEjecucion": 34,
+      "tipoMantenimiento": "Correctivo",
+      "fechaCreacion": "2025-10-09T17:47:27.522Z"
+    },
+    {
+      "id": 1760032078034,
+      "dia": "2025-10-09",
+      "codigo": "UMB001",
+      "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "numeroOS": "G",
+      "area": "EQUIPOS DE SOPORTE",
+      "actividad": "Mantenimiento de UNIDAD DE MANUFACTURA Y BOMBEO - EQUIPO PARA LA FABRICACION DE AGENTE DE VOLADURA",
+      "causaFalla": "FDG",
+      "horasEjecucion": 0.1,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-09T17:47:58.034Z"
+    },
+    {
+      "id": 1760032088443,
+      "dia": "2025-10-09",
+      "codigo": "SDFDS",
+      "equipo": "SDFASDF",
+      "numeroOS": "G",
+      "area": "EQUIPOS DE SOPORTE",
+      "actividad": "Mantenimiento de SDFASDF - ASDFSDAF",
+      "causaFalla": "DFG",
+      "horasEjecucion": 23,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-09T17:48:08.443Z"
+    },
+    {
+      "id": 1760032100050,
+      "dia": "2025-10-09",
+      "codigo": "UMB001",
+      "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "numeroOS": "G",
+      "area": "EQUIPOS DE SOPORTE",
+      "actividad": "Mantenimiento de UNIDAD DE MANUFACTURA Y BOMBEO - EQUIPO PARA LA FABRICACION DE AGENTE DE VOLADURA",
+      "causaFalla": "4WER",
+      "horasEjecucion": 3,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-09T17:48:20.050Z"
     }
   ],
   "calendarData": [
