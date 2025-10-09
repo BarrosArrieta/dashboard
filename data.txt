@@ -755,19 +755,6 @@
       "fechaCreacion": "2025-10-07T14:59:51.690Z"
     },
     {
-      "id": 1760032015651,
-      "dia": "2025-10-09",
-      "codigo": "345GFD",
-      "equipo": "DFSGSDFG",
-      "numeroOS": "G",
-      "area": "EQUIPOS DE PERFORACION",
-      "actividad": "Mantenimiento de DFSGSDFG - SDFHSFGJGFHKHJK",
-      "causaFalla": "EFDASF",
-      "horasEjecucion": 75,
-      "tipoMantenimiento": "Preventivo",
-      "fechaCreacion": "2025-10-09T17:46:55.651Z"
-    },
-    {
       "id": 1760032047522,
       "dia": "2025-10-09",
       "codigo": "SDFDS",
@@ -857,6 +844,45 @@
       "horasEjecucion": 3.5,
       "tipoMantenimiento": "Preventivo",
       "fechaCreacion": "2025-10-09T20:00:56.884Z"
+    },
+    {
+      "id": 1760040112157,
+      "dia": "2025-10-08",
+      "codigo": "ERYTTWRET",
+      "equipo": "YUTYU",
+      "numeroOS": "",
+      "area": "EQUIPOS DE PERFORACION",
+      "actividad": "asdfasdf",
+      "causaFalla": "",
+      "horasEjecucion": 0.6,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-09T20:01:52.157Z"
+    },
+    {
+      "id": 1760040147749,
+      "dia": "2025-10-07",
+      "codigo": "345GFD",
+      "equipo": "DFSGSDFG",
+      "numeroOS": "",
+      "area": "EQUIPOS DE PERFORACION",
+      "actividad": "Mantenimiento de DFSGSDFG - SDFHSFGJGFHKHJK",
+      "causaFalla": "EFDASF",
+      "horasEjecucion": 75,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-09T20:02:27.749Z"
+    },
+    {
+      "id": 1760040693517,
+      "dia": "2025-10-09",
+      "codigo": "SDFDS",
+      "equipo": "SDFASDF",
+      "numeroOS": "",
+      "area": "EQUIPOS DE SOPORTE",
+      "actividad": "asdfsdaf",
+      "causaFalla": "",
+      "horasEjecucion": 0.3,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-09T20:11:33.517Z"
     }
   ],
   "calendarData": [
