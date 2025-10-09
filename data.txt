@@ -77,7 +77,12 @@
   ],
   "areasData": [
     "EQUIPOS DE SOPORTE",
-    "EQUIPOS DE PERFORACION"
+    "EQUIPOS DE PERFORACION",
+    "rwqwer",
+    "rwerwer",
+    "wqerqwer",
+    "wqerwer",
+    "dfsadf"
   ],
   "equiposData": [
     {
