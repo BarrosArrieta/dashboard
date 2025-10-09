@@ -47,6 +47,17 @@
       "equipo": "TALADRO PERFORADOR 001",
       "descripcion": "EQUIPOS PARA LA PERFORACION DE LA ROCA ",
       "foto": null
+    },
+    {
+      "id": 1759968653681,
+      "area": "EQUIPOS DE SOPORTE",
+      "codigo": "SDFDS",
+      "equipo": "SDFASDF",
+      "descripcion": "ASDFSDAF",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
     }
   ],
   "ordenesPMData": [
@@ -77,11 +88,11 @@
       "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO",
       "descripcionActividad": "LIMPIEZA",
       "repuestosHerramientas": "LLAVE",
-      "fechaCierre": "",
+      "fechaCierre": "2025-10-08",
       "tecnico": "JESUS ANDRES ARIAS CHOLES",
       "costo": 12000,
       "tipoMantenimiento": "Correctivo",
-      "estado": "Pendiente",
+      "estado": "Ejecutada",
       "fechaCreacion": "2025-10-08T23:46:43.328Z"
     }
   ],
