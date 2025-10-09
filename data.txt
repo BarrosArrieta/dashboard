@@ -25,16 +25,14 @@
   ],
   "equiposData": [
     {
-      "estado": "Operativo",
-      "frecuencia": "10",
-      "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACION ",
-      "insumos": "ACEITE",
-      "costoPreventivo": 150000,
-      "id": 1759850933791,
+      "id": 1759967732288,
       "area": "EQUIPOS DE SOPORTE",
-      "codigo": "UMB 01",
+      "codigo": "UMB001",
       "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
       "descripcion": "EQUIPO PARA LA FABRICACION DE AGENTE DE VOLADURA",
+      "frecuencia": "10",
+      "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACION ",
+      "estado": "Operativo",
       "foto": null
     },
     {
@@ -53,23 +51,40 @@
   ],
   "ordenesPMData": [
     {
-      "id": 1759965952990,
-      "numeroOrden": "000",
+      "id": 1759967108337,
+      "numeroOrden": "0001",
       "fechaOrden": "2025-10-08",
       "equipoArea": "EQUIPOS DE SOPORTE",
       "equipoCodigo": "UMB 01",
       "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO",
       "descripcionActividad": "LIMPIEZA \nAJUSTE \nLUBRICACION",
       "herramientas": "ACEITE",
-      "fechaCierre": "",
+      "fechaCierre": "2025-10-22",
       "tecnico": "JESUS ANDRES ARIAS CHOLES",
       "costo": 150000,
       "tipoMantenimiento": "Preventivo",
-      "estado": "Pendiente",
-      "fechaCreacion": "2025-10-08T23:25:52.991Z"
+      "estado": "Ejecutada",
+      "fechaCreacion": "2025-10-08T23:45:08.337Z"
     }
   ],
-  "ordenesTrabajoData": [],
+  "ordenesTrabajoData": [
+    {
+      "id": 1759967203328,
+      "numeroOrden": "0002",
+      "fechaOrden": "2025-10-08",
+      "equipoArea": "EQUIPOS DE SOPORTE",
+      "equipoCodigo": "UMB001",
+      "equipoNombre": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "descripcionActividad": "LIMPIEZA",
+      "repuestosHerramientas": "LLAVE",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES",
+      "costo": 12000,
+      "tipoMantenimiento": "Correctivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-08T23:46:43.328Z"
+    }
+  ],
   "reporteDiarioData": [
     {
       "id": 1759849191690,
