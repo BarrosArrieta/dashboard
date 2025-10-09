@@ -17,6 +17,62 @@
       "telefono": "3219716889",
       "cargo": "DISEÑADOR",
       "foto": null
+    },
+    {
+      "id": 1760031430090,
+      "nombre": "HGSDFGH",
+      "cedula": "53",
+      "telefono": "456",
+      "cargo": "GYUUIGG",
+      "foto": null
+    },
+    {
+      "id": 1760031438496,
+      "nombre": "GFASDG",
+      "cedula": "76786",
+      "telefono": "78678",
+      "cargo": "RSTHER",
+      "foto": null
+    },
+    {
+      "id": 1760031446580,
+      "nombre": "RTYRT",
+      "cedula": "58",
+      "telefono": "7898",
+      "cargo": "YUIO",
+      "foto": null
+    },
+    {
+      "id": 1760031455386,
+      "nombre": "FGHFDG",
+      "cedula": "6543465",
+      "telefono": "38",
+      "cargo": "FTFHFDTG",
+      "foto": null
+    },
+    {
+      "id": 1760031464722,
+      "nombre": "ERUTYRT",
+      "cedula": "5456",
+      "telefono": "45645",
+      "cargo": "UIYITYU",
+      "foto": null
+    },
+    {
+      "id": 1760031472914,
+      "nombre": "RETEWRT",
+      "cedula": "788976",
+      "telefono": "786",
+      "cargo": "RTHERG",
+      "foto": null
+    },
+    {
+      "id": 1760031483714,
+      "nombre": "ERTERY",
+      "cedula": "7",
+      "telefono": "8678",
+      "cargo": "YUYU",
+      "foto": null
     }
   ],
   "areasData": [
@@ -61,6 +117,17 @@
       "codigo": "SDFDS",
       "equipo": "SDFASDF",
       "descripcion": "ASDFSDAF",
+      "foto": null
+    },
+    {
+      "id": 1760031377490,
+      "area": "EQUIPOS DE PERFORACION",
+      "codigo": "345GFD",
+      "equipo": "DFSGSDFG",
+      "descripcion": "SDFHSFGJGFHKHJK",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
       "foto": null
     }
   ],
