@@ -185,6 +185,87 @@
       "status": "executing",
       "order": "",
       "createdAt": "2025-10-08T22:04:03.188Z"
+    },
+    {
+      "id": 1759971097042,
+      "date": "2025-10-08",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
+    },
+    {
+      "id": 1759971097212,
+      "date": "2025-10-18",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
+    },
+    {
+      "id": 1759971097478,
+      "date": "2025-10-28",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
+    },
+    {
+      "id": 1759971097365,
+      "date": "2025-11-07",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
+    },
+    {
+      "id": 1759971097432,
+      "date": "2025-11-17",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
+    },
+    {
+      "id": 1759971097736,
+      "date": "2025-11-27",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
+    },
+    {
+      "id": 1759971097785,
+      "date": "2025-12-07",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
+    },
+    {
+      "id": 1759971097811,
+      "date": "2025-12-17",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
+    },
+    {
+      "id": 1759971097167,
+      "date": "2025-12-27",
+      "equipmentId": 1759967732288,
+      "equipmentName": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "status": "pending",
+      "order": "",
+      "createdAt": "2025-10-09T00:51:36.945Z"
     }
   ]
 }
