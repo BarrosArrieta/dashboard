@@ -818,6 +818,19 @@
       "horasEjecucion": 3,
       "tipoMantenimiento": "Preventivo",
       "fechaCreacion": "2025-10-09T17:48:20.050Z"
+    },
+    {
+      "id": 1760037403891,
+      "dia": "2025-10-09",
+      "codigo": "THF56456",
+      "equipo": "EYYER",
+      "numeroOS": "0032",
+      "area": "EQUIPOS DE SOPORTE",
+      "actividad": "asfgasdfg",
+      "causaFalla": "sgasddfgf",
+      "horasEjecucion": 0.2,
+      "tipoMantenimiento": "Locativa",
+      "fechaCreacion": "2025-10-09T19:16:43.891Z"
     }
   ],
   "calendarData": [
