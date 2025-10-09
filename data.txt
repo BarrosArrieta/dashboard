@@ -129,6 +129,94 @@
       "actividades": "",
       "estado": "Operativo",
       "foto": null
+    },
+    {
+      "id": 1760031512162,
+      "area": "EQUIPOS DE SOPORTE",
+      "codigo": "THF56456",
+      "equipo": "EYYER",
+      "descripcion": "WERTYEWRT",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    },
+    {
+      "id": 1760031519802,
+      "area": "EQUIPOS DE PERFORACION",
+      "codigo": "ERYTTWRET",
+      "equipo": "YUTYU",
+      "descripcion": "RYTIUTRU",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    },
+    {
+      "id": 1760031595834,
+      "area": "EQUIPOS DE SOPORTE",
+      "codigo": "ERYERT",
+      "equipo": "RTYRTY",
+      "descripcion": "WERYWTY",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    },
+    {
+      "id": 1760031604475,
+      "area": "EQUIPOS DE SOPORTE",
+      "codigo": "WERYTEWTRT",
+      "equipo": "EWRTERT",
+      "descripcion": "RETEWRTE",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    },
+    {
+      "id": 1760031611602,
+      "area": "EQUIPOS DE PERFORACION",
+      "codigo": "ERYR",
+      "equipo": "ERYRET",
+      "descripcion": "ERYRET",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    },
+    {
+      "id": 1760031687994,
+      "area": "EQUIPOS DE PERFORACION",
+      "codigo": "RETRE",
+      "equipo": "EWRTEWRT",
+      "descripcion": "WERTWERT",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    },
+    {
+      "id": 1760031695538,
+      "area": "EQUIPOS DE SOPORTE",
+      "codigo": "WERTWERT",
+      "equipo": "WERTEWR",
+      "descripcion": "WERTREWT",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
+    },
+    {
+      "id": 1760031702242,
+      "area": "EQUIPOS DE PERFORACION",
+      "codigo": "WERTWER",
+      "equipo": "WERTERWT",
+      "descripcion": "WERTEWRT",
+      "frecuencia": "none",
+      "actividades": "",
+      "estado": "Operativo",
+      "foto": null
     }
   ],
   "ordenesPMData": [
