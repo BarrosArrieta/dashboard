@@ -25,14 +25,16 @@
   ],
   "equiposData": [
     {
+      "estado": "Operativo",
+      "frecuencia": "10",
+      "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACION ",
+      "insumos": "1234",
+      "costoPreventivo": 12,
       "id": 1759967732288,
       "area": "EQUIPOS DE SOPORTE",
       "codigo": "UMB001",
       "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
       "descripcion": "EQUIPO PARA LA FABRICACION DE AGENTE DE VOLADURA",
-      "frecuencia": "10",
-      "actividades": "LIMPIEZA \nAJUSTE \nLUBRICACION ",
-      "estado": "Operativo",
       "foto": null
     },
     {
@@ -49,18 +51,53 @@
       "foto": null
     },
     {
+      "estado": "Operativo",
+      "frecuencia": "15",
+      "actividades": "ASDFDS",
+      "insumos": "ASDFASDF",
+      "costoPreventivo": 123213451435,
       "id": 1759968653681,
       "area": "EQUIPOS DE SOPORTE",
       "codigo": "SDFDS",
       "equipo": "SDFASDF",
       "descripcion": "ASDFSDAF",
-      "frecuencia": "none",
-      "actividades": "",
-      "estado": "Operativo",
       "foto": null
     }
   ],
-  "ordenesPMData": [],
+  "ordenesPMData": [
+    {
+      "id": 1759971786873,
+      "numeroOrden": "0001",
+      "fechaOrden": "2025-10-08",
+      "equipoArea": "EQUIPOS DE SOPORTE",
+      "equipoCodigo": "SDFDS",
+      "equipoNombre": "SDFASDF",
+      "descripcionActividad": "ASDFDS",
+      "herramientas": "ASDFASDF",
+      "fechaCierre": "",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES",
+      "costo": 123213451435,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Pendiente",
+      "fechaCreacion": "2025-10-09T01:03:06.873Z"
+    },
+    {
+      "id": 1759971827865,
+      "numeroOrden": "0002",
+      "fechaOrden": "2025-10-08",
+      "equipoArea": "EQUIPOS DE PERFORACION",
+      "equipoCodigo": "TL001",
+      "equipoNombre": "TALADRO PERFORADOR 001",
+      "descripcionActividad": "AJUSTE \nLIMPIEZA\nLUBRICACION",
+      "herramientas": "BROCA",
+      "fechaCierre": "2025-10-08",
+      "tecnico": "JESUS ANDRES ARIAS CHOLES",
+      "costo": 12000000,
+      "tipoMantenimiento": "Preventivo",
+      "estado": "Ejecutada",
+      "fechaCreacion": "2025-10-09T01:03:47.865Z"
+    }
+  ],
   "ordenesTrabajoData": [],
   "reporteDiarioData": [
     {
