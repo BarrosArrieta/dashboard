@@ -831,6 +831,32 @@
       "horasEjecucion": 0.2,
       "tipoMantenimiento": "Locativa",
       "fechaCreacion": "2025-10-09T19:16:43.891Z"
+    },
+    {
+      "id": 1760040007405,
+      "dia": "2025-10-09",
+      "codigo": "345GFD",
+      "equipo": "DFSGSDFG",
+      "numeroOS": "",
+      "area": "EQUIPOS DE PERFORACION",
+      "actividad": "asdfasdf",
+      "causaFalla": "asdfsdaf",
+      "horasEjecucion": 0.8,
+      "tipoMantenimiento": "Locativo",
+      "fechaCreacion": "2025-10-09T20:00:07.405Z"
+    },
+    {
+      "id": 1760040056884,
+      "dia": "2025-10-09",
+      "codigo": "UMB001",
+      "equipo": "UNIDAD DE MANUFACTURA Y BOMBEO",
+      "numeroOS": "0001",
+      "area": "EQUIPOS DE SOPORTE",
+      "actividad": "LIMPIEZA \nAJUSTE \nLUBRICACION",
+      "causaFalla": "calentamiento del motor",
+      "horasEjecucion": 3.5,
+      "tipoMantenimiento": "Preventivo",
+      "fechaCreacion": "2025-10-09T20:00:56.884Z"
     }
   ],
   "calendarData": [
