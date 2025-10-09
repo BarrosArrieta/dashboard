@@ -66,7 +66,7 @@
   ],
   "ordenesPMData": [
     {
-      "id": 1759971786873,
+      "id": 1759972417546,
       "numeroOrden": "0001",
       "fechaOrden": "2025-10-08",
       "equipoArea": "EQUIPOS DE SOPORTE",
@@ -74,31 +74,32 @@
       "equipoNombre": "SDFASDF",
       "descripcionActividad": "ASDFDS",
       "herramientas": "ASDFASDF",
-      "fechaCierre": "",
+      "fechaCierre": "2025-10-08",
       "tecnico": "JESUS ANDRES ARIAS CHOLES",
       "costo": 123213451435,
       "tipoMantenimiento": "Preventivo",
-      "estado": "Pendiente",
-      "fechaCreacion": "2025-10-09T01:03:06.873Z"
-    },
+      "estado": "Ejecutada",
+      "fechaCreacion": "2025-10-09T01:13:37.546Z"
+    }
+  ],
+  "ordenesTrabajoData": [
     {
-      "id": 1759971827865,
+      "id": 1759972511170,
       "numeroOrden": "0002",
       "fechaOrden": "2025-10-08",
       "equipoArea": "EQUIPOS DE PERFORACION",
       "equipoCodigo": "TL001",
       "equipoNombre": "TALADRO PERFORADOR 001",
-      "descripcionActividad": "AJUSTE \nLIMPIEZA\nLUBRICACION",
-      "herramientas": "BROCA",
+      "descripcionActividad": "AJUSTE",
+      "repuestosHerramientas": "PIEZA",
       "fechaCierre": "2025-10-08",
-      "tecnico": "JESUS ANDRES ARIAS CHOLES",
-      "costo": 12000000,
-      "tipoMantenimiento": "Preventivo",
+      "tecnico": "ALAN JOSE BARROS ARRIETA",
+      "costo": 1222222,
+      "tipoMantenimiento": "Locativo",
       "estado": "Ejecutada",
-      "fechaCreacion": "2025-10-09T01:03:47.865Z"
+      "fechaCreacion": "2025-10-09T01:15:11.170Z"
     }
   ],
-  "ordenesTrabajoData": [],
   "reporteDiarioData": [
     {
       "id": 1759849191690,
